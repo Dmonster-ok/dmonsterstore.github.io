@@ -1,11 +1,4 @@
-#storebuttonH {
-opacity: 0;
+;
 }
 
-#storebutton :hover {
-opacity: 0;
-}
-
-#storebuttonH :hover {
-opacity: 1;
 }
