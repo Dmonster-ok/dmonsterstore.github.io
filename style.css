@@ -1,5 +1,7 @@
 .store{
 position: relative;
+height: 256px;
+width: 720px;
 display: inline-block;
 overflow: hidden;
 }
