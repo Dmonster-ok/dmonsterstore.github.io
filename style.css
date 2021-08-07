@@ -6,7 +6,7 @@ display: inline-block;
 overflow: hidden;
 }
 .sbutton{
-  transition: all inline 0.7s;
+  transition: all inline 0.9s;
 }
 img.sbuttonH{
   position: absolute;
@@ -22,9 +22,28 @@ img.sbuttonH{
 }
 
 
-
-
-
+.store{
+position: relative;
+height: 256px;
+width: 720px;
+display: inline-block;
+overflow: hidden;
+}
+.sbutton{
+  transition: all inline 0.9s;
+}
+img.sbuttonH{
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+}
+.store:hover img{
+  opacity: 0;
+}
+.store:hover img.sbuttonH{
+  opacity: 1;
+}
 
 
 body{
