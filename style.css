@@ -1,5 +1,8 @@
-.store;}
+.store{
 position: relative;
 display: inline-block;
 overflow: hidden;
+}
+.sbutton{
+  transition: all inline 0.7s;
 }
