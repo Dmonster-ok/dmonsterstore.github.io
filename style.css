@@ -62,7 +62,7 @@ display: inline-block;
 overflow: hidden;
 }
 .dbutton{
-  transition: all inline 0.7s;
+  transition: all inline 0.9s;
 }
 img.dbuttonH{
   position: absolute;
