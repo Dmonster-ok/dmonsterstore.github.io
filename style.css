@@ -12,3 +12,6 @@ img.sbuttonH{
   left: 0;
   opacity: 0;
 }
+.store:hover img{
+  opacity: 0;
+}
