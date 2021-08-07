@@ -1,5 +1,5 @@
 .button {
--box-shadow: 0px 0px 89px 20px rgba(109,20,186,1);
--moz-box-shadow: 0px 0px 89px 20px rgba(109,20,186,1);
-box-shadow: 0px 0px 89px 20px rgba(109,20,186,1);
+-text-shadow: 0px 0px 89px 20px rgba(109,20,186,1);
+-moz-text-shadow: 0px 0px 89px 20px rgba(109,20,186,1);
+text-shadow: 0px 0px 89px 20px rgba(109,20,186,1);
 }
