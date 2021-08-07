@@ -12,7 +12,7 @@ display: inline-block;
 overflow: hidden;
 }
 .sbutton{
-  transition: all inline 0.9s;
+  transition: all linear 0.7s;
 }
 img.sbuttonH{
   position: absolute;
