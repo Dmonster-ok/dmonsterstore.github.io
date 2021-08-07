@@ -54,25 +54,25 @@ img.ybuttonH{
 
 /* Discord glow */
 
-.store{
+.discord{
 position: relative;
 height: 256px;
 width: 720px;
 display: inline-block;
 overflow: hidden;
 }
-.sbutton{
+.dbutton{
   transition: all inline 0.7s;
 }
-img.sbuttonH{
+img.dbuttonH{
   position: absolute;
   top: 0;
   left: 0;
   opacity: 0;
 }
-.store:hover img{
+.discord:hover img{
   opacity: 0;
 }
-.store:hover img.sbuttonH{
+.discord:hover img.dbuttonH{
   opacity: 1;
 }
