@@ -22,26 +22,27 @@ img.sbuttonH{
 }
 
 
-.store{
+
+.youtube{
 position: relative;
 height: 256px;
 width: 720px;
 display: inline-block;
 overflow: hidden;
 }
-.sbutton{
+.ybutton{
   transition: all inline 0.9s;
 }
-img.sbuttonH{
+img.ybuttonH{
   position: absolute;
   top: 0;
   left: 0;
   opacity: 0;
 }
-.store:hover img{
+.youtube:hover img{
   opacity: 0;
 }
-.store:hover img.sbuttonH{
+.youtube:hover img.ybuttonH{
   opacity: 1;
 }
 
