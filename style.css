@@ -37,7 +37,7 @@ display: inline-block;
 overflow: hidden;
 }
 .ybutton{
-  transition: all inline 0.9s;
+  transition: all linear 0.7s;
 }
 img.ybuttonH{
   position: absolute;
@@ -62,7 +62,7 @@ display: inline-block;
 overflow: hidden;
 }
 .dbutton{
-  transition: all inline 0.9s;
+  transition: all linear 0.7s;
 }
 img.dbuttonH{
   position: absolute;
