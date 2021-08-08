@@ -1,0 +1,10 @@
+body.bg{
+    background-image: url('./images/bgD1.gif');
+    background-size: cover;
+    
+    
+    
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
