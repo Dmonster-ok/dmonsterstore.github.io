@@ -90,5 +90,6 @@ body{
 }
 
 a{
-  position: center;
+  position: relative;
+  left: 20px;
 }
