@@ -21,7 +21,7 @@ img.sbuttonH{
   opacity: 0;
 }
 .store:hover img{
-  opacity: 0;
+  opacity: 1;
 }
 .store:hover img.sbuttonH{
   opacity: 1;
@@ -46,7 +46,7 @@ img.ybuttonH{
   opacity: 0;
 }
 .youtube:hover img{
-  opacity: 0;
+  opacity: 1;
 }
 .youtube:hover img.ybuttonH{
   opacity: 1;
@@ -71,7 +71,7 @@ img.dbuttonH{
   opacity: 0;
 }
 .discord:hover img{
-  opacity: 0;
+  opacity: 1;
 }
 .discord:hover img.dbuttonH{
   opacity: 1;
