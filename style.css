@@ -80,9 +80,10 @@ img.dbuttonH{
 
 body{
     background-image: url('./images/bgD.png');
-    background-size: cover;
     
+    background-position: center center;
     
+    background-attachment: fixed;
     
     height: 100vh;
     padding:0;
