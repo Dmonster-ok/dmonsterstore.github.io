@@ -1,9 +1,15 @@
 body.bg{
     background-image: url('./images/bgD1.gif');
     
-   background-position: center center;
+  background-position: center center;
   
-   background-attachment: fixed;
+  background-repeat: no-repeat;
+
+  background-attachment: fixed;
+
+  background-size: cover;
+
+  background-color: #1e0047;
     
     
     height: 100vh;
